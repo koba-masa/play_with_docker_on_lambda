@@ -1,0 +1,2 @@
+# play_with_docker_on_lambda
+AWS Lambda上にてDockerを起動させる
